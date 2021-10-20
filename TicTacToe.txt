@@ -1,0 +1,1 @@
+Esse projeto apresenta 3 partes principais: O arduíno, responsável pelo controle, o braço robótico, responsável pela movimentação e o tabuleiro sensorial, responsável pelo rastreamento das peças.
